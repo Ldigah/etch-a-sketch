@@ -1,0 +1,12 @@
+#gridContainer {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-auto-rows: minmax(18px, auto);
+    background-color: blueviolet;
+    height: 800px;
+    width: 800px;
+}
+
+#cell {
+    background-color: aqua;
+}
