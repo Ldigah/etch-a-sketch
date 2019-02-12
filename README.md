@@ -1,2 +1,2 @@
 # etch-a-sketch
-The Odin Project lesson
+The Odin Project Lesson
